@@ -1,6 +1,0 @@
-azure_region = "southeastasia"
-kubernetes_version = "1.15.5"
-resource_group = "AKSCluster-RG"
-acr_name = "aksterraformacrdemo2"
-keyvault_rg = "AksTerraform-RG"
-keyvault_name = "tfakskeyvault"
